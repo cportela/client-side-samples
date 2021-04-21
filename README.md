@@ -2,7 +2,7 @@
 
 If you are reading this, chances are you are looking at samples of my work with the intent of hiring my services to develop code for you.
 
-This epo contains code samples of my work on the client side.  A similar repo called **server-side-samples** showcases representative work I have done on the server side.
+This repo contains code samples of my work on the client side.  A similar repo called **server-side-samples** showcases representative work I have done on the server side.
 
 The truth is I don't get much time to work outside of my paying projects so I don't have projects with which to showcase my work, as most code belongs to the respective project owners.
 
