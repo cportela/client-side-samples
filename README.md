@@ -10,6 +10,8 @@ The folders in this repo do not actually build an application.
 
 **Please note that I wrote this code just as React Hooks were starting to be understood and popular, and at that time I had not fully embraced them for my daily coding but now React Hooks is basically all I do.**
 
+These are samples of **React JS** code in the context of a **React Native** application.
+
 Feel free to peruse and look around to get an idea of my coding style.
 
 Thanks!
